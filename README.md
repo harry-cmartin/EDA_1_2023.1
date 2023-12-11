@@ -4,8 +4,16 @@ This repository contains all the codes from Data Structure and Operational syste
 
 ## Grafos
 
-![P1](assets\P1.png)
-![P2](assets\P2.png)
+<p align="center">
+<img src="assets\P1.png" width="450" />
+</p>
+
+<p align="center">
+<img src="assets\P2.png" width="450" />
+</p>
 
 ### Ponderado
-![P3](assets\P3.png)
+
+<p align="center">
+<img src="assets\P3.png" width="450" />
+</p>
