@@ -32,7 +32,7 @@ void mescla_listas(celula *l1, celula *l2, celula *l3) {
     l2->prox = NULL;
 }
 
-
+/*
 int main() {
     celula *l1 = (celula*) malloc(sizeof(celula));
     celula *l2 = (celula*) malloc(sizeof(celula));
@@ -69,3 +69,4 @@ int main() {
     
     return 0;
 }
+*/
